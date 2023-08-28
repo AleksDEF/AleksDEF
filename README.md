@@ -1,15 +1,14 @@
-<div id="badges">
+<div id="badges" align="center">
   <a href="www.linkedin.com/in/aleks-agasiev">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="t.me/Taburet9">
+  <a href="t.me/Taburet9" align="center">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
 
 
-
-### Hi there 👋
+# Hi there 👋
 
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif" width="100"/>
