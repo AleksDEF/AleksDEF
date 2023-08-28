@@ -33,7 +33,11 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
 
+---
 
+### :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com?user=guvictory&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guvictory&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **AleksDEF/AleksDEF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
