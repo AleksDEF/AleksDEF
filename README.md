@@ -16,7 +16,7 @@
 ### :man_technologist: Обо мне :
 Я Data scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
 
-- :seedling: Изучаю Data science уже более 1.5 лет.
+- :seedling: Изучаю Data science уже более 2 лет.
 
 - 🔭 Реализовал 5+ проектов, с которыми можно ознакомиться в моём репо (https://github.com/AleksDEF/My-data-science-projects)
 
